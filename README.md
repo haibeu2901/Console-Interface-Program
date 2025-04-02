@@ -45,8 +45,8 @@ Live Demo: :point_right: [here]()
 
 #| Name | Description
 -| ---- | -----------
-1| [src Folder](https://github.com/haibeu2901/prj301-ProductIntroduction/tree/main/src) | source code
-2| [Database File](https://github.com/haibeu2901/prj301-ProductIntroduction/blob/main/ProductIntroDB.sql) | database script
+1| [src Folder](https://github.com/haibeu2901/lab211-BikeStore/tree/main/src) | source code
+2| [Database File]([[https://github.com/haibeu2901/lab211-BikeStore/blob/main/Brand.txt](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Category.txt)](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Product.txt)) | database 
 
 
 ## How Can Get Started
