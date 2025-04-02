@@ -1,6 +1,6 @@
-# Store Management
+# Bike Store Management
 
-The main project folder that for learning and practicing MVC2 model in class
+The main project folder that for learning and practicing Java in class
 
 Live Demo: :point_right: [here]()
 
