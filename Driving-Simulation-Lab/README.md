@@ -1,6 +1,6 @@
 # Driving Simulation Lab
 
-The main project folder that for learning and practicing Java in class
+The main project folder that for learning and practicing Java
 
 Live Demo: :point_right: [here]()
 
@@ -45,10 +45,8 @@ Live Demo: :point_right: [here]()
 
 #| Name | Description
 -| ---- | -----------
-1| [src Folder](https://github.com/haibeu2901/lab211-BikeStore/tree/main/src) | source code
-2| [Brand Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Brand.txt) | database 
-3| [Category Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Category.txt) | database 
-4| [Product Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Product.txt) | database 
+1| [src Folder](https://github.com/haibeu2901/Console-Interface-Program/tree/main/Driving-Simulation-Lab/src) | source code
+2| [Simulation File](https://github.com/haibeu2901/Console-Interface-Program/blob/main/Driving-Simulation-Lab/src/DrivingSimulationLab.java) | 
 
 
 ## How Can Get Started
