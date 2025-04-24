@@ -1,6 +1,6 @@
 # BMI Calculator App Lab
 
-The main project folder that for learning and practicing Java in class
+The main project folder that for learning and practicing Java
 
 Live Demo: :point_right: [here]()
 
