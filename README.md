@@ -1,62 +1,41 @@
-# Bike Store Management
+# Java Console Projects Collection
 
-The main project folder that for learning and practicing Java in class
+Welcome to my collection of Java-based console interaction programs! This repository serves as a central hub for a variety of small to mid-scale projects developed using pure Java and designed to run in a command-line environment.
 
-Live Demo: :point_right: [here]()
+Each project is housed in its own folder and explores different aspects of Java programming—from basic logic and user input handling to more structured problem-solving patterns. Whether you're learning Java, brushing up on your skills, or just curious about how things work under the hood, you'll likely find something interesting here.
 
-## Table of Contents
-- [Description](#description)
-- [Preview Screenshot](#preview-screenshot)
-- [Technology](#technology)
-- [Useful Resources](#useful-resources)
-- [How can get started](#how-can-get-started)
-- [Learn More](#learn-more)
-- [License & Copyright](#license--copyright)
+## 🔧 What's Inside
 
-## Description
-- This is a bike store management
-- This application only runs on IDE's console
-- This project is also my assignment under the requirement of teacher in class
-- This web works well on Netbeans 8.2
+This repository includes programs such as:
 
-## Preview Screenshot
+- Interactive tools and utilities  
+- Simple games and logic puzzles  
+- Educational mini-projects  
+- Algorithm practice exercises  
 
-<div align="center">
-<!--   <img src="" alt="Login Page" width="45%"></img> &nbsp;&nbsp; <img src="" alt="SignUp Page" width="45%"></img>
-  <img src="" alt="Search Page" width="45%"></img> &nbsp;&nbsp; <img src="" alt="Profile" width="45%"></img>
-  <img src="" alt="Invalid" width="45%"></img> &nbsp;&nbsp; <img src="" alt="Error 404" width="45%"></img>
-  <img src="" alt="Book Store" width="45%"></img> &nbsp;&nbsp; <img src="" alt="View Cart" width="45%"></img>
-  <img src="" alt="Check Out" width="45%"></img> &nbsp;&nbsp; <img src="" alt="Check Out Success" width="45%"></img> -->
-</div>
-  
-## Technology
-**1. Frontend**
+Each folder includes a dedicated `README.md` file with instructions, a description, and notes on how the program works.
 
-**2. Backend**
-  - Java
+## 🛠️ How to Run
 
-**3. Database**
-  - Notepad
+To run any of the Java console programs:
 
-**4. Tool**
-  - Netbeans 8.2
+1. **Navigate to the folder** of the program you want to run.
+2. **Compile the Java file** using the `javac` command:
+   ```bash
+   javac ProgramName.java
+3. **Run the compiled program** using the `java` command:
+   ```bash
+   java ProgramName
 
-## Useful Resources
+## 🎯 Purpose
 
-#| Name | Description
--| ---- | -----------
-1| [src Folder](https://github.com/haibeu2901/lab211-BikeStore/tree/main/src) | source code
-2| [Brand Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Brand.txt) | database 
-3| [Category Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Category.txt) | database 
-4| [Product Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Product.txt) | database 
+This repository is built for:
 
+- Practicing and improving Java programming skills
+- Exploring basic to intermediate concepts through small projects
+- Sharing clean and simple code that others can learn from or expand on
 
-## How Can Get Started
-
-- Using NetBeans 8.2 IDE to start project easier
-- After open project in IDE, run project and open console
-
-## Learn More
+It’s especially useful for beginners, students, and self-learners who want to understand Java through hands-on examples that are easy to read and run.
 
 
 ## License & Copyright
