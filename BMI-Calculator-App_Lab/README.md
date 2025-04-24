@@ -45,10 +45,10 @@ Live Demo: :point_right: [here]()
 
 #| Name | Description
 -| ---- | -----------
-1| [src Folder](https://github.com/haibeu2901/lab211-BikeStore/tree/main/src) | source code
-2| [Brand Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Brand.txt) | database 
-3| [Category Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Category.txt) | database 
-4| [Product Database File](https://github.com/haibeu2901/lab211-BikeStore/blob/main/Product.txt) | database 
+1| [src Folder](https://github.com/haibeu2901/Console-Interface-Program/tree/main/BMI-Calculator-App_Lab/src) | source code
+2| [Main File](https://github.com/haibeu2901/Console-Interface-Program/blob/main/BMI-Calculator-App_Lab/src/Main.java) | database 
+3| [BMI Calculator File](https://github.com/haibeu2901/Console-Interface-Program/blob/main/BMI-Calculator-App_Lab/src/BMICalculator.java) | database 
+4| [User Input File](https://github.com/haibeu2901/Console-Interface-Program/blob/main/BMI-Calculator-App_Lab/src/UserInput.java) | database 
 
 
 ## How Can Get Started
